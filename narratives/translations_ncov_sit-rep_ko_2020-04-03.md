@@ -21,6 +21,7 @@ authorLinks:
 affiliations: "Fred Hutch, Seattle, USA; Biozentrum, Basel, Switzerland; CZI, CA, USA"
 translators: 
   - Taehoon Ha
+  - Kyo Bin Kang
 translatorLinks:
   - https://taehoonh.github.io
 date: "2020 April 03"
@@ -53,14 +54,14 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 이번 주 보고서에서 새로 추가된 것들:
 
 **아프리카**  
-* 세네갈에서 적어도 두 개의 전파 연쇄가 순환 중이라는 증거를 발견
+* 세네갈에서 적어도 두 개의 전파 연쇄가 확산되고 있다는 증거를 발견
 * 지속적으로 콩고민주공화국에서 지역사회 확산이 이루어지고 있음
 
 **아시아**  
-* 최근 일본으로의 유입은 유람선과 관련
+* 최근 일본으로의 유입은 유람선과 연관되어 있음
 
 **유럽**  
-* 아이슬란드로부터 받은 대규모의 염기서열 자료는 여행과 관련된 확산의 정도를 보여줌
+* 아이슬란드에서 얻은 대규모의 염기서열 자료는 여행으로 인한 확산의 정도를 보여줌
 * 여행 기록이 오스트리아에서의 지역사회 전파 가능성을 시사
 
 **북아메리카**   
@@ -131,20 +132,20 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 <!-- This is left-side text 4-->
 # [아프리카의 현황](https://nextstrain.org/ncov/2020-04-03?d=tree,map&f_region=Africa&p=grid&r=division)
 
-이번 주에 세네갈과 콩고민주공화국에 대한 새로운 업데이트가 있습니다. 하지만 중요한 것은, 이것이 아프리카 어디에도 코로나19 사례가 없다는 것을 의미하지는 않습니다. 단지 이 지역들이 추론을 시작하기 위한 충분한 데이터를 가지고 있을 뿐입니다.
+이번 주에 세네갈과 콩고민주공화국에 대한 새로운 업데이트가 있습니다. 하지만 짚고 넘어가야 할 중요한 사실은, 이것이 아프리카의 다른 국가들에서 코로나19 사례가 없다는 것을 의미하지는 않습니다. 단지 세네갈과 콩고민주공화국이 추론을 시작하기 위한 충분한 데이터가 확보된 곳일 뿐입니다.
 <!-- There is no right side text -->
 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 5-->
-# [두 개의 전파 연쇄가 순환 중인 세네갈](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
+# [두 개의 전파 연쇄가 확산되고 있는 세네갈](https://nextstrain.org/ncov/2020-04-03?c=division&d=tree&f_country=Senegal&f_region=Africa&label=clade:A2a&p=grid&r=division)
 
-이 슬라이드에서 세네갈의 두 개의 사례군을 확인할 수 있습니다. 이 사례군들은 함께 묶이지 않는데, 이는 그들이 적어도 두 개의 서로다른 유입이 있었음을 시사합니다. 각 사례군들은 서로 밀접한 관련이 있는 사례들로 구성되어 있으며, 짧은 시간 동안에 수집되었고, 지역사회 전파의 내용과 일치합니다.
+이 슬라이드에서 세네갈의 두 개의 사례군을 확인할 수 있습니다. 이 사례군들은 함께 묶이지 않는데, 이는 그들이 적어도 두 개의 서로 다른 유입에서 비롯된 사례군임을 시사합니다. 각 사례군들은 서로 밀접한 관련이 있는 사례들로 구성되어 있으며, 짧은 시간 동안에 수집되었고, 지역사회 전파의 내용과 일치합니다.
 <br><br>
-계통수 상단에 표시된 사례군은 2월 28일에서 3월 사이에 다카르에서 수집된 사례들로 구성되어 있습니다. 이는 코로나 바이러스가 적어도 1개월 동안 다카르 지역 내에서 순환 중이었음을 의미합니다.
+계통수 상단에 표시된 사례군은 2월 28일에서 3월 사이에 다카르에서 수집된 사례들로 구성되어 있습니다. 이는 코로나 바이러스가 적어도 1개월 동안 다카르 지역 내에서 전파되고 있었음을 의미합니다.
 <br><br>
 계통수 중앙에는 3월 10일에서 3월 12일 사이에 투바에서 수집된 사례들로 구성되어 있습니다.
-이는 코로나 바이러스가 투바 지역 내에서 약 3주 동안 순환했을 가능성이 있음을 시사합니다.
+이는 코로나 바이러스가 투바 지역 내에서 약 3주 동안 전파고 있었을 가능성이 있음을 시사합니다.
 <!-- There is no right side text -->
 
 <!-- ############ SLIDE BREAK ############# -->
@@ -167,11 +168,11 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 8-->
-# [최근 일본으로의 유입은 유람선과 관련이 있습니다.](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
+# [최근 일본으로의 유입은 크루즈선과 관련이 있습니다.](https://nextstrain.org/ncov/2020-04-03?f_country=Japan&label=clade:A2a&m=div&d=tree,map)
 
-최근 일본에서 추가된 16개의 염기서열 자료 중 10개는 나일 강 유람선 승선 이력이 있습니다. 일본에서 진단과 수집을 거친 후에, 16개의 자료들은 두 사례군으로 나누어졌습니다. 흥미롭게도, 이 사례군들은 다른 일본인 또는 아시아 사람의 염기서열 자료와 같이 묶이지 않고, 미국과 유럽에서 주로 발견되는 사례들과 묶이는 것을 확인할 수 있었습니다.
+최근 일본에서 추가된 16개의 염기서열 자료 중 10개는 나일 강 유람선 승선 이력이 있는 감염자에게서 채취되었습니다. 일본에서 확진과 표본 채취가 이뤄진 이 16개의 자료들은 두 사례군으로 나누어졌습니다. 흥미롭게도, 이 사례군들은 다른 일본인 또는 아시아 사람의 염기서열 자료와 같이 묶이지 않고, 미국과 유럽에서 주로 발견되는 사례들과 묶이는 것을 확인할 수 있었습니다.
 <br><br>
-따라서, 이 일본인 여행자들은 이집트를 방문하는 다른 유럽인, 미국인 보균자한테서 감염되었을 것으로 보입니다. 이 여행자들이 일본으로 돌아온 후 3월 중순에 표본을 채취하였으므로, 이는 3월 초에 주로 유럽과 미국에서 유행 중인 변종들이 전세계로 퍼졌음을 시사하는 증거로 볼 수 있습니다.
+따라서, 이 일본인 여행자들은 이집트를 방문하는 다른 유럽인 및 미국인 보균자한테서 감염되었을 것으로 보입니다. 이 여행자들이 일본으로 돌아온 후의 시점인 3월 중순에 표본을 채취하였으므로, 이는 3월 초에 주로 유럽과 미국에서 유행 중인 변종들이 전세계로 퍼졌음을 시사하는 증거로 볼 수 있습니다.
 <!-- There is no right side text -->
 
 
@@ -230,7 +231,7 @@ abstract: "This report uses publicly shared genomic data to track the spread of 
 
 <!-- ############ SLIDE BREAK ############# -->
 <!-- This is left-side text 14-->
-# [두 개의 전파 연쇄가 순환 중인 온타리오](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
+# [두 개의 전파 연쇄가 확산 중인 온타리오](https://nextstrain.org/ncov/2020-04-03?f_division=Ontario&label=clade:B1&d=tree,map&c=division)
 
 온타리오 내에서 두 개의 사례군이 보입니다. 이 사례군들은 함께 묶이지 않으며, 각 사례군은 다른 나라 사례들 옆에 자리하는 것을 확인할 수 있습니다. 이는 두 개의 서로 다른 유입이 있었음을 의미합니다.
 <br><br>
